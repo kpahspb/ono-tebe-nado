@@ -23,7 +23,6 @@
 }
 
 .header_links-list-item {
-  border-bottom: #000;
   list-style: circle;
 }
 
@@ -63,6 +62,7 @@
 .cover {
   background: url("../images/cover.jpg") center/cover;
   color: #fff;
+  background-repeat: repeat;
 }
 
 .cover_title {
